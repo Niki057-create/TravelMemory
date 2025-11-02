@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# 🌍 Travel Memory
+
+A full-stack MERN application to record, organize, and relive your travel experiences — built with React, Node.js, Express, and MongoDB.
+
+---
+
+## 🚀 Tech Stack
+
+| Layer | Technology Used |
+|--------|------------------|
+| Frontend | React.js |
+| Backend | Node.js, Express.js |
+| Database | MongoDB Atlas |
+| Hosting | AWS EC2 |
+| Version Control | Git + GitHub |
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Niki057-create/TravelMemory.git
+cd TravelMemory
+For frontend, you need to create .env file and put the following content (remember to change it based on your requirements):
+
+REACT_APP_BACKEND_URL=http://localhost:3000
+>>>>>>> f3e0e8557900de4254bd32463a92b28407fe3294
