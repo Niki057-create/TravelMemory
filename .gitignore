@@ -1,0 +1,42 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+package-lock.json
+
+# Build output
+build/
+dist/
+frontend/build/
+
+# Environment files (do not commit)
+.env
+.env.local
+.env.*.local
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Misc
+coverage/
+.vagrant/
+*.sqlite3
+
+# Optional - if you have uploads or images generated at runtime
+uploads/
+images/
